@@ -1,1 +1,1 @@
-# tem4ikcs.githubClange
+# Основные алгоритмы языка C
